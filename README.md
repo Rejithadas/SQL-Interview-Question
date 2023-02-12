@@ -4,7 +4,7 @@ This repository contains solutions for to SQL interview questions that I've atte
 
 | Source | Company | 
 | -------- | -------- | 
-| [StrataScratch](https://www.stratascratch.com/) | [Airbnb](https://github.com/Rejithadas/SQL-Interview-Questions/files/10716376/Airbnb.pdf) |
+| [StrataScratch](https://www.stratascratch.com/) | [Airbnb](https://github.com/Rejithadas/SQL-Interview-Question/blob/main/Airbnb.pdf) |
 | Datalemur | [CVS Health](https://github.com/Rejithadas/StrataScratch-Forbes-SQL-Interview-Questions/files/10716426/CVS.Health.pdf)|
 | [StrataScratch](https://www.stratascratch.com/) | [Amazon](https://github.com/Rejithadas/StrataScratch-Forbes-SQL-Interview-Questions/files/10716431/Amazon.2.pdf) |
 | [StrataScratch](https://www.stratascratch.com/) | [Amazon](https://github.com/Rejithadas/StrataScratch-Forbes-SQL-Interview-Questions/files/10716433/Amazon.pdf) |
